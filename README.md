@@ -5,8 +5,8 @@
 
 ## Equipe
 
-**Nome do time:** __Chat em tempo real__________________  
-**Modelo escolhido:** __5_ (1 a 5)
+**Nome do time:** Monitoramento de sensores 
+**Modelo escolhido:** 2 (1 a 5)
 
 | Nome | Usuário do GitHub |
 | --- | --- |
