@@ -10,11 +10,11 @@
 
 | Nome | Usuário do GitHub |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Rafaela Martins| RafaelaMrtns |
+| Yasmim Medeiros| Yazzymds |
+| Felipe Velarde | Felipeclave |
+| Rian Rosenberg | rianamarorosenberg-dotcom |
+
 
 ## Modelos
 
