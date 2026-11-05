@@ -5,8 +5,8 @@
 
 ## Equipe
 
-**Nome do time:** ____________________  
-**Modelo escolhido:** ___ (1 a 5)
+**Nome do time:** __Chat em tempo real__________________  
+**Modelo escolhido:** __5_ (1 a 5)
 
 | Nome | Usuário do GitHub |
 | --- | --- |
